@@ -1,0 +1,22 @@
+{
+  "name": "fresh",
+  "version": "1.0.0",
+  "description": "fresh air",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fungezi/fresh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fungezi/fresh/issues"
+  },
+  "homepage": "https://github.com/fungezi/fresh#readme",
+  "dependencies": {
+    "webpack": "^3.8.1"
+  }
+}
